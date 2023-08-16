@@ -1,2 +1,2 @@
 # Test
-My first dot project
+My first dbt project
